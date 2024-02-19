@@ -1,0 +1,6 @@
+import com.alibaba.fastjson.support.odps.udf.JSONSet;
+public class FunctionUse1436 {
+public void funcUse() {
+JSONSet jsonset = new JSONSet();
+}
+}
